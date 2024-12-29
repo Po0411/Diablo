@@ -5,7 +5,7 @@ DiabloGame 같은 게임 제작하기
 **유니티 버전**: [<code>2022.3.22 LTS</code>](https://unity.com/kr/releases/editor/whats-new/2022.3.22)
 
 ## 🍳 게임 설명  
-"비행기 게임"
+DiabloGame 같은 게임 제작하여 간단히 게임 즐기기
 
 ## 💬 만든 사람
 | <img src="https://cdn2.ppomppu.co.kr/zboard/data3/2022/0509/m_20220509173224_d9N4ZGtBVR.jpeg" width="80"> |
