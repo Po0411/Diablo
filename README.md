@@ -1,5 +1,5 @@
 ## 🎮 프리젝트 소개  
-DiabloGame 같은 게임 제작하기
+Diablo 같은 게임 제작하기
 
 ## 📊 정보  
 **유니티 버전**: [<code>2022.3.22 LTS</code>](https://unity.com/kr/releases/editor/whats-new/2022.3.22)
